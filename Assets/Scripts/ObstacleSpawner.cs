@@ -18,5 +18,6 @@ public class ObstacleSpawner : MonoBehaviour
 
             Instantiate(Obstacle, SpawnPos, Quaternion.identity);
         }
+
     }
 }
